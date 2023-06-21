@@ -1,0 +1,23 @@
+{
+  "name": "productinfowebservice",
+  "version": "1.0.0",
+  "description": "This is the repo of Lab 4 exercise",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhtuananh020402/ProductInfoWebService.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhtuananh020402/ProductInfoWebService/issues"
+  },
+  "homepage": "https://github.com/vhtuananh020402/ProductInfoWebService#readme",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
